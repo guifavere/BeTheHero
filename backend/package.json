@@ -19,7 +19,9 @@
     "sqlite3": "^4.1.1"
   },
   "devDependencies": {
+    "faker": "^4.1.0",
     "jest": "^25.2.3",
+    "knex-factory": "0.0.7",
     "nodemon": "^2.0.2",
     "supertest": "^4.0.2"
   }
